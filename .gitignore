@@ -12,3 +12,12 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+
+#Xcode
+*.pbxproj
+*.DS_Store
+*.plist
+*.xcuserstate
+*.xcworkspacedata
+*.xcbkptlist
+*.xcsettings
